@@ -1,0 +1,42 @@
+h1{
+    color: aquamarine;
+    text-align: center;
+    font-family: 'cursive';
+    width: 20rem;
+    margin: 5rem auto;
+}
+.fruitContainer{
+    /* display: inline-block; */
+    color: blueviolet;
+
+}
+.fruitContainer ul {
+    width: 15rem;
+    margin: 3rem auto;
+
+}
+.reg{
+    color: blueviolet;
+    width: 20rem;
+    margin: 0 auto;
+}
+.reg input {
+    width: 14rem;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+.reg button {
+    width: 15rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+}
+
+table{
+    margin-left: 500px;
+}
+
+tr,td{
+    width: 300px;
+}
