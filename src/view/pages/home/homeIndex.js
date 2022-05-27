@@ -7,8 +7,11 @@ const Home =()=>{
     };
     return(
         <>
-        <h1>Welcome From Home!</h1>
         <center>
+
+       
+        <h1>Welcome From Home!</h1>
+        {/* <center>
         <Link to={{
             pathname : "/profile",
             state : {name : "YuwaKoKo"}
@@ -17,8 +20,10 @@ const Home =()=>{
         <Link to="/fruit">Go to Fruit</Link>
         <br/>
         <button onClick={gotoProfile}>Go to Profile visa button</button>
+        </center> */}
         </center>
         </>
+        
     )
 }
 
